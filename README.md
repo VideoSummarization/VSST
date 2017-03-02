@@ -1,7 +1,7 @@
 # VSST 
 Here we provide the code for the following paper:
 
-    Imbalanced Video Summarization via Spatio-Temporal Deep Architecture, paper id #860, CVPR 2017
+    Imbalanced Video Summarization via Spatio-Temporal Deep Architecture
     
 ### Updates
 - Nov 21, 2016
