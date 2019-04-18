@@ -1,7 +1,7 @@
 # VSST 
 Here we provide the code for the following paper:
 
-    Imbalanced Video Summarization via Spatio-Temporal Deep Architecture
+    Video Summarization via Spatio-Temporal Deep Architecture
     
 ### Updates
 - Nov 21, 2016
@@ -15,7 +15,7 @@ First, we provide our trained two-stream CNN models on the SumMe dataset,
 ["Spatial net model (VSST-imbalance)"](https://drive.google.com/file/d/0B7XqN7JTUuAlRFlTc0JjYWdTOFE/view?usp=sharing) </br> 
 ["Temporal net model (VSST-imbalance)"](https://drive.google.com/file/d/0B7XqN7JTUuAlbHJvTGtuT3NSM2s/view?usp=sharing) </br>
 
-and CLA dataset.
+and TVsum dataset.
 
 ["Spatial net model (VSST-RGB&MV)"](https://drive.google.com/file/d/0B7XqN7JTUuAlUjR4eC1TRDdEMUE/view?usp=sharing) </br> 
 ["Temporal net model (VSST-RGB&MV)"](https://drive.google.com/file/d/0B7XqN7JTUuAlYmo0cDQ0c09WbE0/view?usp=sharing) </br>
