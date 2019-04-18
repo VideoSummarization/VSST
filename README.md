@@ -1,7 +1,7 @@
 # VSST 
 Here we provide the code for the following paper:
 
-    Video Summarization via Spatio-Temporal Deep Architecture
+    Video Summarization via Spatio-Temporal Deep Architecture. 
     
 ### Updates
 - Nov 21, 2016
@@ -35,3 +35,14 @@ You need download the public caffe toolbox. Our VSST code is compatatible  with 
 - **Step 4**: train two-stream deep Convnet  </br>
 - **Step 5**: Extract feature for each video frame through two-stream deep ConvNet </br>
 - **Step 6**: use SVR to predict the summmary score for each frame </br>
+
+If you use the code, please cite:
+
+@article{ZHONG2019,
+author = "Sheng-hua Zhong and Jiaxin Wu and Jianmin Jiang",
+title = "Video summarization via spatio-temporal deep architecture",
+journal = "Neurocomputing",
+volume = "332",
+pages = "224 - 235",
+year = "2019",
+}
